@@ -8,4 +8,4 @@ Utopia education
 
 # unblocked-site 2
 Utopia education
-<a href "https//:free.learnbiology.one/!" >Click Here to go in </a>
+<a href "https//:free.learnbiology.one/" >Click Here to go in </a>
