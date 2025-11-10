@@ -1,11 +1,10 @@
 # unblocked-site
 Utopia education
-<a href "https://facts.coach.globster.info" >Click Here to go in </a>
-
+https://facts.coach.globster.info
 # unblocked-google
 Utopia education
-<a href "www.google.com" >Click Here to go in </a>
+www.google.com
 
 # unblocked-site 2
 Utopia education
-<a href "learnbiology.one" >Click Here to go in </a>
+learnbiology.one
