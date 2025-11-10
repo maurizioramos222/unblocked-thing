@@ -2,9 +2,9 @@
 Utopia education
 https://facts.coach.globster.info
 # unblocked-google
-Utopia education
+google
 www.google.com
 
 # unblocked-site 2
-Utopia education
+another proxy i guess
 learnbiology.one
