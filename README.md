@@ -7,4 +7,4 @@ www.google.com
 
 # unblocked-site 2
 another proxy i guess
-learnbiology.one
+https://tortillagames.org
