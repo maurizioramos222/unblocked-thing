@@ -10,3 +10,9 @@ another proxy i guess
 https://tortillagames.org
 
 do it guys use it
+
+
+# MARIO
+mario64
+
+https://3xpsmjs.pages.dev
