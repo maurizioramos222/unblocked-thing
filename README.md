@@ -9,6 +9,7 @@ www.google.com
 another proxy i guess
 https://tortillagames.org
 
+https://lite.tortillagames.org
 do it guys use it
 
 
