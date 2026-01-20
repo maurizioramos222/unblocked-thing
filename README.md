@@ -41,3 +41,5 @@ https://infinite-craft.com/
 https://geometrylitegame.org
 
 [https:// pandagaming1.vercel.app](https://panda-fun.vercel.app/)
+
+https://www.gn-math.dev/
