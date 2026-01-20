@@ -43,3 +43,5 @@ https://geometrylitegame.org
 [https:// pandagaming1.vercel.app](https://panda-fun.vercel.app/)
 
 https://www.gn-math.dev/
+
+https://idea.guide.dns1.one.pl
