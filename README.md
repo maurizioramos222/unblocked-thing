@@ -40,4 +40,4 @@ https://2v2.io/?a=peebutt
 https://infinite-craft.com/
 https://geometrylitegame.org
 
-https:// retrogames.onl
+https:// pandagaming1.vercel.app
