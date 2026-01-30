@@ -51,5 +51,9 @@ https://educational.learningeducation.cc
 
 
 # Unclocked games
+https://geometrydashlitepc.org
+https://steamunlocked.org
+htps://geodash.lite.com
 
+https://geometrydash.us.com
 https://www.gn-math.dev/
