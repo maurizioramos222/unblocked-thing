@@ -1,3 +1,7 @@
+# minecraft
+
+https://gx-launcher.github.io
+
 # unblocked-site
 Utopia education
 https://idea.guide.dns1.one.pl
